@@ -40,4 +40,8 @@
 
 
 发布完代码后会生成dist目录，保存着项目的所有可运行的代码。
+<<<<<<< Updated upstream
 
+=======
+      
+>>>>>>> Stashed changes
