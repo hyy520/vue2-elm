@@ -2,7 +2,7 @@
 <hr>
 声明: 代码源于 <a  href="https://github.com/ustbhuangyi">黄毅</a>老师在慕课网上的教学视频，我自己重现了vue2.0版本，喜欢的童鞋可以去支持老师的课程：http://coding.imooc.com/class/74.html
 
-https://github.com/hyy520/vue2-elm/blob/master/static/img1-left.jpg?raw=true
+![pic](https://github.com/hyy520/vue2-elm/blob/master/static/img1-left.jpg?raw=true)
 
 <hr>
 演示地址：http://vuejssellapp.t.imooc.io/#!/
