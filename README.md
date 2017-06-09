@@ -5,8 +5,8 @@
 ![pic](https://github.com/hyy520/vue2-elm/blob/master/static/img1-left.jpg?raw=true)
 
 <hr>
-##从项目中你可以学习到：     
-一、流程及开发方法     
+##从项目中你可以学习到：<br />     
+一、流程及开发方法<br />     
 1、了解一个项目完整的开发流程    
 2、学会组件化、模块化的开发模式     
 3、掌握使用Vue-cli脚手架初始化Vue.js项目    
