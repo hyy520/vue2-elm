@@ -5,17 +5,17 @@
 ![pic](https://github.com/hyy520/vue2-elm/blob/master/static/img1-left.jpg?raw=true)
 
 <hr>
->从项目中你可以学习到：
->一、流程及开发方法
->1、了解一个项目完整的开发流程
->2、学会组件化、模块化的开发模式
->3、掌握使用Vue-cli脚手架初始化Vue.js项目
->4、了解webpack的打包原理
->5、学会模拟json后端数据，前后端分离开发
->6、学会es6+eslint的开发方式
+从项目中你可以学习到：
+一、流程及开发方法     
+1、了解一个项目完整的开发流程   
+2、学会组件化、模块化的开发模式   
+3、掌握使用Vue-cli脚手架初始化Vue.js项目    
+4、了解webpack的打包原理    
+5、学会模拟json后端数据，前后端分离开发    
+6、学会es6+eslint的开发方式    
 
->二、第三方组件
->1、学会使用stylus编写模块化的CSS
+二、第三方组件
+1、学会使用stylus编写模块化的CSS
 2、学会使用vue-router开发单页应用
 3、学会使用vue-resource与后端数据交互
 4、学会如何在Vue.js框架里和第三方JS插件交互
