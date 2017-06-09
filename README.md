@@ -13,8 +13,7 @@
 4、了解webpack的打包原理<br />     
 5、学会模拟json后端数据，前后端分离开发<br />    
 6、学会es6+eslint的开发方式<br /> 
-
-
+<br /> 
 二、第三方组件<br />
 1、学会使用stylus编写模块化的CSS<br />
 2、学会使用vue-router开发单页应用<br />
