@@ -5,6 +5,30 @@
 ![pic](https://github.com/hyy520/vue2-elm/blob/master/static/img1-left.jpg?raw=true)
 
 <hr>
+从项目中你可以学习到：
+一、流程及开发方法
+1、了解一个项目完整的开发流程
+2、学会组件化、模块化的开发模式
+3、掌握使用Vue-cli脚手架初始化Vue.js项目
+4、了解webpack的打包原理
+5、学会模拟json后端数据，前后端分离开发
+6、学会es6+eslint的开发方式
+
+二、第三方组件
+1、学会使用stylus编写模块化的CSS
+2、学会使用vue-router开发单页应用
+3、学会使用vue-resource与后端数据交互
+4、学会如何在Vue.js框架里和第三方JS插件交互
+
+三、设计思想与模式
+1、学会使用Vue.js的过渡编写酷炫的交互动画
+2、了解移动端设备像素比的概念
+3、学会制作并使用图标字
+4、学会解决移动端1px边框问题
+5、学会移动端经典的css sticky footer布局
+6、学会flex弹性布局
+
+<hr>
 演示地址：http://vuejssellapp.t.imooc.io/#!/
 
 ![演示.png](http://upload-images.jianshu.io/upload_images/4670483-9a21e2ae16ea6ac6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
