@@ -52,7 +52,7 @@
      git：https://git-scm.com/downloads
 
 2、从我的仓库复制代码：
-> $ git clone https://github.com/RegToss/Vue-SPA.git
+> $ git clone https://github.com/RegToss/Vue-SPA.git   https://github.com/hyy520/vue2-elm.git
 
 3、安装vue脚手架工具vue-cli:
 > $npm install vue-cli -g
