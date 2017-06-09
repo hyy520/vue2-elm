@@ -40,42 +40,4 @@
 
 
 发布完代码后会生成dist目录，保存着项目的所有可运行的代码。
-      
-注意不能直接打开index.html运行，需要开启http server运行代码。
-直接运行我写好的配置文件就可以运行代码：
-> $ node prod.server.js
 
-打开浏览器输入localhost:9000看效果。
-
-<hr>
-也可以在本地服务器部署你的代码，以nginx为例：
-
-下载地址：http://nginx.org/en/download.html
-
-解压nginx到指定目录：f:/nginx。
-在命令行进入f:/nginx目录下运行：
-> $ start nginx
-
-开启nginx。
-
-1、默认配置的端口号是80，打开浏览器输入：localhost:80，如果出现welcome to nginx则端口80可以使用。否则需要修改默认端口号。
-
-打开nginx/conf下的nginx.conf配置文件，查看默认监听端口号并修改为：
-```
- server {
-        listen      8088;
-}
-```
-在浏览器输入localhost:8088即可正常访问。
-
-2、修改默认路径为指定的地址，即可打开我们的页面,将server中的location修改为：
-> location / {
-            root     F:/Vue/vue-app/dist; //你的dist地址
-            index    index.html;
- }
-
-刷新浏览器即可访问vueapp内容。
-
-
-
-(完)
